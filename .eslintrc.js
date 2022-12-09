@@ -17,4 +17,3 @@ module.exports = {
     'simple-import-sort/exports': 1,
   },
 }
-//
