@@ -1,4 +1,5 @@
 module.exports = {
+  ignorePatterns: ['!.*', '.next', 'next-env.d.ts'],
   settings: {
     react: {
       version: '18.2.0',
