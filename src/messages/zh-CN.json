@@ -1,5 +1,7 @@
 {
   "login": {
-    "title": "欢迎使用 Elife"
+    "title": "欢迎使用 Elife",
+    "test1": "test translate 1",
+    "test2": "test translate 2"
   }
 }
