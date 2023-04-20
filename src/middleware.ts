@@ -1,8 +1,8 @@
 import createI18nMiddleware from 'next-intl/middleware'
 
 export default createI18nMiddleware({
-  locales: ['en-US', 'zh-CN'],
-  defaultLocale: 'en-US',
+  locales: ['en', 'zh'],
+  defaultLocale: 'en',
 })
 
 export const config = {
